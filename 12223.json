@@ -58,6 +58,17 @@
       "ext": "./json/duboku.json$$$proxy"
     },
     {
+            "key": "csp_Xlys",
+            "name": "🍤哔嘀┃1080P",
+            "api": "csp_Xlys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "type": 3,
+            "playerType": 2
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
+        },
+    
+    {
             "key": "优质",
             "name": "优质┃App",
             "type": 3,
@@ -65,6 +76,28 @@
             "playerType": 1,
             "jar":"http://cdn.qiaoji8.com/fix250118.jar;md5;a55a9c35e5f1022c9a56a5f433201fb7",
             "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+        },
+    {
+            "key": "瓜子",
+            "name": "🍉瓜子┃1080P",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
+        },
+    {
+            "key": "csp_yumi",
+            "name": "🌽玉米┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_MiTuApp",
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
+            "ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
         },
     {
       "key": "白白",
