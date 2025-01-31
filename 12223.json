@@ -57,7 +57,15 @@
       "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
       "ext": "./json/duboku.json$$$proxy"
     },
-    
+    {
+            "key": "优质",
+            "name": "优质┃App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "jar":"http://cdn.qiaoji8.com/fix250118.jar;md5;a55a9c35e5f1022c9a56a5f433201fb7",
+            "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+        },
     {
       "key": "白白",
       "name": "🐟白白┃秒播",
@@ -205,15 +213,7 @@
       "changeable": 1,
       "ext": "https://auete.com/"
     },
-    {
-            "key": "优质",
-            "name": "优质┃App",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "jar":"http://cdn.qiaoji8.com/fix250118.jar;md5;a55a9c35e5f1022c9a56a5f433201fb7",
-            "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
-        },
+    
     {
       "key": "push_agent",
       "name": "❌推送",
