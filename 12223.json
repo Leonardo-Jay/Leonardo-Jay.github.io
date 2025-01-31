@@ -56,33 +56,7 @@
       "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
       "ext": "./json/duboku.json$$$proxy"
     },
-    {
-      "key": "Jianpian",
-      "name": "\uD83D\uDCC0 荐片 | 视频",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nangua",
-      "name": "🎃┃南瓜影视┃🎃",
-      "playerType": 0,
-      "type": 3,
-      "api": "./js/nangua.js",
-      "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-    },
-    {
-      "key": "ikanbot",
-      "name": "🤖┃爱看机器人┃🤖",
-      "playerType": 0,
-      "type": 3,
-      "api": "./js/ikanbot.js",
-      "timeout": 30,
-      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-    },
-    {
+{"key":"drpy_js_超前点播","name":"🍌VIP影视","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"},    {
       "key": "白白",
       "name": "🐟白白┃秒播",
       "type": 3,
