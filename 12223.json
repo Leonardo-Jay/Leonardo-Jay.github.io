@@ -48,16 +48,6 @@
     },
     { "key": "荐片", "name": "荐片P2P", "type": 3, "api": "csp_JPJ", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 0 ,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
     {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
-      "ext": "./json/duboku.json$$$proxy"
-    },
-    {
             "key": "csp_Xlys",
             "name": "🍤哔嘀┃1080P",
             "api": "csp_Xlys",
@@ -131,6 +121,7 @@
         "from": "4k|auto"
       }
     },
+    
     {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -246,20 +237,17 @@
       "changeable": 1,
       "ext": "https://auete.com/"
     },
-    
-    {
-      "key": "push_agent",
-      "name": "❌推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    },
+    { "key": "米搜", "name": "小米(网盘搜)", "type": 3, "api": "csp_MIPanSo", "searchable": 1, "quickSearch": 1, "changeable": 0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } },
+    { "key": "抠搜", "name": "抠抠(网盘搜)", "type": 3, "api": "csp_KkSs", "searchable": 1, "quickSearch": 1, "changeable": 0, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } }, 
+    { "key": "UC", "name": "优汐(网盘搜)", "type": 3, "api": "csp_UuSs", "searchable": 1, "quickSearch": 1, "changeable": 0, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } }, 
+    { "key": "YiSo", "name": "易搜(网盘搜)", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } },
+    { "key": "PanSso", "name": "搜搜(网盘搜)", "type": 3, "api": "csp_PanSso", "searchable": 1, "quickSearch": 1, "changeable": 0, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } },
+    { "key": "YpanSo", "name": "一盘(网盘搜)", "type": 3, "api": "csp_YpanSo", "searchable": 1, "quickSearch": 1, "changeable": 0, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", "ext": { "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } }, 
     {
       "api": "csp_fan",
       "changeable": 0,
       "key": "cc",
-      "name": "❌请勿相信视频中任何广告",
+      "name": "❌请勿相信视频中任何广告，此项无影视",
       "quickSearch": 0,
       "searchable": 0,
       "type": 3
@@ -448,6 +436,168 @@
         "最 新",
         "直 播",
         "更 新"
+      ]
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
       ]
     }
   ],
