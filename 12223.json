@@ -56,7 +56,6 @@
             "playerType": 2,
             "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10"
         },
-    
     {
             "key": "优质",
             "name": "优质┃App",
@@ -154,7 +153,6 @@
         "from": "4k|auto"
       }
     },
-    
     {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -258,7 +256,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.cc/"
-    }
+    },
     {
       "api": "csp_fan",
       "changeable": 0,
