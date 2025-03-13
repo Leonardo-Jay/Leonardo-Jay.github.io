@@ -46,11 +46,9 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key":"玩偶","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "jar":"https://raw.kkgithub.com/2hacc/TVBox/main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-    { "key": "荐片", "name": "荐片P2P", "type": 3, "api": "csp_JPJ", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 0 ,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
     {
             "key": "csp_Xlys",
-            "name": "🍤哔嘀┃1080P",
+            "name": "🍤哔嘀┃似乎已失效",
             "api": "csp_Xlys",
             "searchable": 1,
             "quickSearch": 1,
@@ -82,7 +80,7 @@
         },
     {
             "key": "csp_yumi",
-            "name": "🌽玉米┃1080P",
+            "name": "🌽玉米┃似乎已失效",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -90,9 +88,43 @@
             "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
             "ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
         },
+    {"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2, "jar":"http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f","ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"},
+    {"key":"时常","name":"时常┃App","type":3,"api":"csp_Xdai","playerType":1,"jar":"http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f","ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
+    {"key":"星河","name":"星河┃App","type":3,"api":"csp_Muou","playerType":2,"jar":"http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f","ext":"caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ=="},
+    {
+      "key": "csp_Alist",
+      "name": "俊于de|影视+网盘",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 0,
+      "playerType": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "💢小雅":"http://alistxy.ganggang.live:5678",
+        "🦀9T(Adult)": "https://drive.9t.ee",
+        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
+        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
+        "💂小兵组网盘影视": "https://6vv.app",
+        "🐋一只鱼": "https://alist.youte.ml",
+        "🌊七米蓝": "https://al.chirmyram.com",
+        "🥼帅盘": "https://hi.shuaipeng.wang",
+        "🐉神族九帝": "https://alist.shenzjd.com",
+        "☃️姬路白雪": "https://pan.jlbx.xyz",
+        "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
+        "💾DISK": "http://124.222.140.243:8080",
+        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
+        "✨星梦": "https://pan.bashroot.top",
+        "💫触光": "https://pan.ichuguang.com",
+        "🕵️好汉吧": "https://8023.haohanba.cn",
+        "💢repl": "https://ali.liucn.repl.co",
+        "🌨秋雨分享": "https://share.laowang.me",
+        "💦讯维云盘": "https://pan.xwbeta.com"
+      }
+    },
     {
       "key": "白白",
-      "name": "🐟白白┃秒播",
+      "name": "🐟白白┃似乎已失效",
       "type": 3,
       "api": "csp_Sbaibai",
       "playerType": 2,
@@ -146,20 +178,9 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🍄比特┃秒播",
+      "name": "🍄比特┃待定失效",
       "type": 3,
       "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -175,14 +196,14 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡",
+      "name": "📔厂长┃待定失效",
       "type": 3,
       "api": "csp_NewCz",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
+      "ext": "https://www.czzy77.com"
     },
     {
       "key": "木星",
@@ -229,21 +250,15 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃无广",
+      "name": "🏝奥特┃待定失效",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.com/"
-    },
-    {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.2377917180.workers.dev/cfdownload/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"https://www.padmp4.com"},
-        {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.2377917180.workers.dev/cfdownload/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"https://www.xb6v.com"},
-        {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.2377917180.workers.dev/cfdownload/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"https://www.seedhub.cc"},
-        {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.2377917180.workers.dev/cfdownload/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"https://www.kubady2.com"},
-        {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.2377917180.workers.dev/cfdownload/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"https://www.meijutt.net"},
-        {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"jar":"https://github.2377917180.workers.dev/cfdownload/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","filterable":1},
+      "ext": "https://auete.cc/"
+    }
     {
       "api": "csp_fan",
       "changeable": 0,
