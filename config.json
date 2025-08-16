@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;54f6d4fede1ded119645dca77e71b624",
+  "spider": "https://github.com/Leonardo-Jay/Leonardo-Jay.github.io/blob/main/testjar.jar;md5;b2990f7c6b161c2643e80ceb8ee9cc00",
 
   "lives": [
     {
